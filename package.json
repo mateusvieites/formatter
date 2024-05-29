@@ -1,0 +1,12 @@
+{
+  "name": "formatter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mateusvieites/formatter.git",
+  "author": "HardszVick / Nirin <48382353+mateusvieites@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "typescript": "^5.4.5"
+  }
+}
